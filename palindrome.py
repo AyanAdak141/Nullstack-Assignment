@@ -1,4 +1,4 @@
-s=input()
+s=input("Enter the Number or Word :")
 j=len(s)-1
 i=0
 flag=0
